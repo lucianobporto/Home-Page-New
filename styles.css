@@ -1,0 +1,95 @@
+/*color-palette: https://colorhunt.co/palette/f8ede3bdd2b6a2b29f798777 */
+
+body{
+    margin: 0;
+    /*background-color: #F8EDE3;*/
+    background-color: #A2B29F;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.top-container{
+    background-color: #A2B29F;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 650px;
+    padding-top: 100px;
+    position: relative;
+    
+}
+
+.middle-container{
+    /*background-color: #BDD2B6;
+    height: 200px;
+    width: 200px;
+    */
+}
+
+.bottom-container{
+   /* background-color: #798777;
+    height: 200px;
+    width: 200px;
+    */
+}
+
+.home-page{
+    height:500px;  
+    display:inline-block;
+}
+
+.profile-pic{
+    height:200px;
+    widht:200px;
+    border-radius: 50%;
+}
+
+.play{
+    height:100px;
+    widht:100px;
+}
+
+.ep{
+    height:100px;
+    widht:100px;
+}
+
+.single{
+    height:100px;
+    widht:100px;
+}
+
+.note-icon-top{
+    height: 100px;
+    widht: 200px;
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    opacity: 1;
+}
+
+.note-icon-bottom{
+    height: 100px;
+    widht: 200px;
+    position: absolute;
+    left: 150px;
+    top: 500px;
+    opacity: 1;
+}
+
+a:hover{
+    color: #798777;
+}
